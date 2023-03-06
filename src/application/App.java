@@ -19,7 +19,7 @@ public class App {
         Product p = new Product(1, "Laptop", 2.159,1);
         System.out.println(p);
 
-        Product p1 = new Product(2, "Phone", 1.195,2);
+        Product p1 = new Product(2, "Mouse", 1.195,2);
         System.out.println(p1);
 
     }
