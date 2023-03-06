@@ -13,5 +13,8 @@ public class App {
         Client c1 = new Client(2, "Ana Clara");
         System.out.print(c1);
 
+        Client c2 = new Client(3, "Ana Clarice");
+        System.out.print(c2);
+
     }
 }
